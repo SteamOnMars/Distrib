@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Git Disable SSL Verify
-git config --global http.sslverify false
-
 
 # Git Setup Multiple Repository
 git remote add gitlab git@gitlab.com:steamonmars/distrib.git
